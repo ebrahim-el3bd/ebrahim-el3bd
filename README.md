@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ebrahim El3bd</h1>
+<h1 align="center"><b>Hi , I'm Ebrahim Elabd </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I fell in love with programming and I have at least learnt something, I think… , I am fluent in classics like React and Javascript. My field of Interest's are building new Web Technologies and Products and also in areas related to Deep Learning and Natural Launguage Processing. Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js ...</h3>
+
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Deveolper,;Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+<br>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrahim-el3bd&label=Profile%20views&color=0e75b6&style=flat" alt="ebrahim-el3bd" /> </p>
